@@ -26,8 +26,6 @@ class ViewController: UIViewController {
         
         
         
-        
-        
         viewColor.layer.cornerRadius = 30
         
         sliderR.minimumValue = 0
